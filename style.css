@@ -1,0 +1,36 @@
+body,h1,h2,h3,h4,h5,h6{
+    font-family: Raleway , sans-serif;
+    color: rgb(52, 159, 230);
+    /* background-color: rgb(245, 227, 125); */
+
+}
+
+body,html{
+    height: 100%;
+    line-height: 1.8;
+
+}
+
+
+/* Full height image header */
+.bgimg-1{
+    background-position: center;
+    background-size: cover;
+    background-image: url(mahrast.jpg);
+    min-height: 55%;
+    width: auto;
+    
+    
+}
+
+.w3-bar .w3-button {
+    padding: 16px;
+}
+
+.avatar{
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
